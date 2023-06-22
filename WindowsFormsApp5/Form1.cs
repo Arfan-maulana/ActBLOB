@@ -18,7 +18,7 @@ namespace WindowsFormsApp5
 
     public partial class Form1 : Form
     {
-        //declare the following class level variable:
+        //declare the following classs level variable:
         Image curImage;
         string curFileName;
         string connectionString = "Data Source=LAPTOP-M7MD7ENC\\ARFAN_MAULANA;Initial Catalog=BLOB;Integrated Security=True;MultipleActiveResultSets=True";
